@@ -7,7 +7,6 @@ a multitude of tests.
 
 ## Installation - Linux
 
-
 1. ``cd ~``
 2. ``mkdir secrets``
 3. ``cd secrets``
