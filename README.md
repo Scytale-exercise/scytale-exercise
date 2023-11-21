@@ -71,7 +71,15 @@ export GITHUB_TOKEN='<YOUR_PERSONAL_GITHUB_TOKEN>'
 
 <hr />
 
-## Examples & Help
+
+1. ``cd ~``
+2. ``mkdir secrets``
+3. ``cd secrets``
+4. ``touch github_token``
+5. ``vi github_token``
+6. Paste your GitHub Personal Access token and save
+7. Install all dependencies using: ``pip install -r requirements.txt``
+
 
 To get help and the supported arguments, run: 
 ```shell
@@ -86,9 +94,12 @@ scytale-oracle --github-organization <ORGANIZATION_NAME>
 
 <hr/>
 
+**All Rights Reserved to the Scytale Hackathon Blue Team, &#169; 2022**
+=======
 <div align="center"> 
   <strong>
   🔮 Created by the <a href="https://scytale.ai/">Scytale</a> Hackathon Blue Team; Idan Ram, Eva Osherovsky, Jess Gopas &#169; 2022 🔮
   </strong>
 </div>
 <hr />
+
