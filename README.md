@@ -71,7 +71,6 @@ export GITHUB_TOKEN='<YOUR_PERSONAL_GITHUB_TOKEN>'
 
 <hr />
 
-
 1. ``cd ~``
 2. ``mkdir secrets``
 3. ``cd secrets``
